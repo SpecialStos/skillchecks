@@ -1,7 +1,6 @@
-## Exports
-
 ## Created by Karma Developments, edited by Cisoko. (https://discord.gg/cisoko)
 
+## Exports
 Alphabet:
 ```lua
     exports['skillchecks']:startAlphabetGame(15000, 5, function(result) --time in ms, amount of letters 
